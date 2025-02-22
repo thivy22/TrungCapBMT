@@ -1,0 +1,31 @@
+# Thông báo tuyển sinh trình độ Trung cấp năm 2025
+
+Trường Trung cấp Buôn Ma Thuột thông báo tuyển sinh hệ trung cấp chính quy năm 2025 với các ngành đào tạo sau:
+
+- **Ngành Công nghệ Kỹ thuật Ô tô**
+- **Ngành Kỹ thuật Chế biến Món ăn**
+- **Ngành Dịch vụ Chăm sóc Gia đình**
+
+**Đối tượng tuyển sinh:**
+
+- Học sinh tốt nghiệp THCS hoặc THPT.
+
+**Thời gian đào tạo:**
+
+- Từ 1,5 đến 2 năm, tùy theo trình độ đầu vào.
+
+**Hồ sơ đăng ký:**
+
+- Đơn đăng ký học.
+- Bản sao bằng tốt nghiệp THCS hoặc THPT.
+- Bản sao giấy khai sinh.
+- 4 ảnh 3x4 cm.
+
+**Thông tin liên hệ:**
+
+- **Địa chỉ:** 131 Phan Huy Chú, Phường Khánh Xuân, Thành phố Buôn Ma Thuột, Đắk Lắk
+- **Điện thoại:** 0262 368 5533
+- **Email:** info@bmtc.edu.vn
+- **Website:** [www.bmtc.edu.vn](https://bmtc.edu.vn/)
+
+*Thông tin chi tiết về thông báo tuyển sinh năm 2025 có thể tham khảo tại [đây](https://bmtc.edu.vn/thong-bao-tuyen-sinh-nam-2025/).*
