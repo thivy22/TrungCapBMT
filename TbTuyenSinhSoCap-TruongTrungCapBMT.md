@@ -1,46 +1,13 @@
-# Thông báo tuyển sinh trình độ Trung cấp năm 2025
 
-Trường Trung cấp Buôn Ma Thuột thông báo tuyển sinh hệ trung cấp chính quy năm 2025 với các ngành đào tạo sau:
+# Thông báo tuyển sinh hệ sơ cấp - Trường Trung cấp Buôn Ma Thuột
 
-- **Ngành Công nghệ Kỹ thuật Ô tô**
-- **Ngành Kỹ thuật Chế biến Món ăn**
-- **Ngành Dịch vụ Chăm sóc Gia đình**
+Trường Trung cấp Buôn Ma Thuột thông báo tuyển sinh hệ sơ cấp ngành **Công nghệ Kỹ thuật Ô tô** năm 2025. Thông tin chi tiết như sau:
 
-## Đối tượng tuyển sinh:
+- **Thời gian đào tạo**: 06 tháng
+- **Đối tượng**: Học sinh tốt nghiệp THCS trở lên, người muốn học nghề nhanh để đi làm
+- **Cơ hội việc làm**: Tốt nghiệp có thể làm việc ngay tại các gara, xưởng sửa chữa ô tô, trung tâm bảo dưỡng.
 
-- Học sinh tốt nghiệp THCS hoặc THPT.
+Chi tiết tuyển sinh có thể xem tại [đây](https://bmtc.edu.vn/3314-2/).
+"""
 
-## Thời gian đào tạo:
 
-- Từ 1,5 đến 2 năm, tùy theo trình độ đầu vào.
-
-## Hồ sơ đăng ký:
-
-- Đơn đăng ký học.
-- Bản sao bằng tốt nghiệp THCS hoặc THPT.
-- Bản sao giấy khai sinh.
-- 4 ảnh 3x4 cm.
-
-## Thông tin liên hệ:
-
-- **Địa chỉ:** 131 Phan Huy Chú, Phường Khánh Xuân, Thành phố Buôn Ma Thuột, Đắk Lắk  
-- **Điện thoại:** 0262 368 5533  
-- **Email:** info@bmtc.edu.vn  
-- **Website:** [www.bmtc.edu.vn](https://bmtc.edu.vn/)  
-
-Thông tin chi tiết về thông báo tuyển sinh năm 2025 có thể tham khảo tại [đây](https://bmtc.edu.vn/thong-bao-tuyen-sinh-nam-2025/).
-
----
-
-## Tuyển sinh trình độ Sơ cấp
-
-Chương trình tuyển sinh trình độ sơ cấp cung cấp các khóa học ngắn hạn với nhiều ngành nghề khác nhau phù hợp với người lao động mong muốn trang bị kỹ năng nhanh chóng.  
-
-Chi tiết về tuyển sinh sơ cấp vui lòng xem tại: [Xem chi tiết](https://bmtc.edu.vn/3314-2/).
-
----
-
-## Lịch khai giảng
-
-Thông tin về lịch khai giảng các khóa học có thể tham khảo tại:  
-[Chi tiết lịch khai giảng](https://bmtc.edu.vn/thong-bao-tuyen-sinh-nam-2025/)
