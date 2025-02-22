@@ -41,6 +41,6 @@ Sau khi hoàn thành khóa học, học viên có thể làm lái xe tại các 
 - **Địa chỉ:** 131 Phan Huy Chú, Phường Khánh Xuân, Thành phố Buôn Ma Thuột, Đắk Lắk
 - **Điện thoại:** 0262 368 5533
 - **Email:** info@bmtc.edu.vn
-- **Website:** [www.bmtc.edu.vn](https://bmtc.edu.vn/)
+- **Website:** [www.bmtc.edu.vn](https://bmtc.edu.vn/tong-quan/)
 
 *Thông tin chi tiết về chương trình đào tạo lái xe hạng B có thể tham khảo tại [đây](https://bmtc.edu.vn/lai-xe-hang-b/).*
