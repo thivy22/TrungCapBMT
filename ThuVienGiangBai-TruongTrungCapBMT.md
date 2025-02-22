@@ -1,5 +1,4 @@
-# Creating the markdown content based on the Kiến Thức Lái Xe section
-md_content_kien_thuc_lai_xe = """
+
 # Kiến Thức Lái Xe - Trường Trung Cấp Buôn Ma Thuột
 
 Trang Kiến Thức Lái Xe cung cấp các bài viết và thông tin hữu ích về việc thi và học lái xe.
@@ -18,9 +17,3 @@ Trang Kiến Thức Lái Xe cung cấp các bài viết và thông tin hữu íc
 - Email: [info@bmtc.edu.vn](mailto:info@bmtc.edu.vn)
 """
 
-# Saving the content to a .md file
-file_path_kien_thuc_lai_xe = "/mnt/data/Kien_Thuc_Lai_Xe_BMTC.md"
-with open(file_path_kien_thuc_lai_xe, "w", encoding="utf-8") as file:
-    file.write(md_content_kien_thuc_lai_xe)
-
-file_path_kien_thuc_lai_xe  # Returning the file path for download
